@@ -1,0 +1,6 @@
+org.openqa.selenium.StaleElementReferenceException--element information is keep changing
+NoSuchElementException
+Element not found exception
+WebDriver exception
+Socket exception
+org.openqa.selenium.NoAlertPresentException:

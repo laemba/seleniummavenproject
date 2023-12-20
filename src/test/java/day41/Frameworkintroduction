@@ -1,0 +1,39 @@
+Organizeing the files/folders of project is nothing but framework
+
+
+Objectives:
+==========
+Reusability
+Readability
+Maintainability
+
+Which framework:
+=============
+Built in
+Testng,junit,cucumber etc..
+Customized
+datadriven,keydriven,hybrid driven
+
+Phases:
+======
+Analysis --AUT
+
+  How many moudule are there
+  How many pages are there for each module
+  How types of elements are there
+  What can be automated /What can not be automated
+  
+  
+ choose testcases for automation
+  sanity/smoke---
+  multiple set of data/re-test cases
+  regression testcases
+  
+  
+  
+  
+  
+
+
+
+
